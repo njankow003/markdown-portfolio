@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Personal Experience and Skills:
+* __Programming Languages__ including *Java* and *Python*
+* Achieved the rank of **Eagle Scout** in _July 2020_
